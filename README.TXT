@@ -1,5 +1,5 @@
 #############################################################################
-Este progaram consiste en crear una agenda que sirve para guaradar
+Este progarama consiste en crear una agenda su función es guaradar
 notas creadas por un cliente y poder buscar en ellas coincidencias con 
 alguna palabra en concreto.
 Contiene 2 clases para su funcionamiento, la clase Agenda es la que lee el 
