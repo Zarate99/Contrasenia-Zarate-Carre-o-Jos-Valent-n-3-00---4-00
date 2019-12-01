@@ -9,6 +9,6 @@ La clase Notas es la encargada de crear las notas que almacenarán nuestra info.
 
 TÍTULO DEL PROYECTO: Agenda
 PROPÓSITO DEL PROYECTO: Crear métodos con una Nota 
-VERSIÓN o FECHA: 01/12/2019
+VERSIÓN o FECHA: 1.1
 CÓMO INICIAR ESTE PROYECTO: Ejecutar la clase Notas
 AUTORES: Zarate carreño José Valenín
